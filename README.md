@@ -8,7 +8,7 @@ This specialization has three courses in it :
 2. AI for Medical Prognosis. (not yet completed)
 3. AI For Medical Treatment. (not yet completed)
 
-The notes are taken while doing the course. The digitally "handwritten" written notes are made using [Xournal] (https://xournalpp.github.io/).
+The notes are taken while doing the course. The digitally "handwritten" written notes are made using [Xournal](https://xournalpp.github.io/).
 
 I will add a discussion on the assignments as well later.
 
