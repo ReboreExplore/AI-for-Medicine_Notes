@@ -4,7 +4,7 @@ AI for Medicine is an intermediate specialization track offered by deeplearning.
 [Course Link](https://www.coursera.org/specializations/ai-for-medicine?)
 
 This specialization has three courses in it :
-1. AI for Medical Diagnosis.
+1. [AI for Medical Diagnosis](https://github.com/ReboreExplore/AI-for-Medicine_Notes/blob/main/AI_for_Medicine_course1.pdf)
 2. AI for Medical Prognosis. (not yet completed)
 3. AI For Medical Treatment. (not yet completed)
 
